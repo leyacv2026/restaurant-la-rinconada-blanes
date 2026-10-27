@@ -15,7 +15,7 @@ export const PizarraHighlight: React.FC<PizarraHighlightProps> = ({ onBookMenu }
           <div className="lg:col-span-6">
             <div className="relative rounded-lg overflow-hidden border border-[#3e3025] shadow-2xl bg-[#16120e]">
               <img
-                src="/assets/aistudio/image_dbf18b95.png"
+                src="./assets/aistudio/image_dbf18b95.png"
                 alt="Entrada del Asador La Rinconada con el cartel de madera naranja y la pizarra del menú"
                 className="w-full h-[450px] sm:h-[500px] object-cover object-center"
                 referrerPolicy="no-referrer"

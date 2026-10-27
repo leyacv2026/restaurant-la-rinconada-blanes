@@ -10,7 +10,7 @@ export const AboutSection: React.FC = () => {
           <div className="lg:col-span-6 relative">
             <div className="relative rounded-lg overflow-hidden border border-[#3e3025] shadow-2xl bg-[#1c1611]">
               <img
-                src="/assets/aistudio/image_f9be9c62.png"
+                src="./assets/aistudio/image_f9be9c62.png"
                 alt="Comedor interior rústico de La Rinconada con mesas y manteles a cuadros tradicionales"
                 className="w-full h-[420px] sm:h-[480px] object-cover object-center"
                 referrerPolicy="no-referrer"

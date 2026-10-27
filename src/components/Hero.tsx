@@ -93,7 +93,7 @@ export const Hero: React.FC<HeroProps> = ({ onQuickBook, onOpenBooking }) => {
           <div className="lg:col-span-5 relative">
             <div className="relative rounded-lg overflow-hidden border border-[#3e3025] bg-[#221a14] shadow-2xl">
               <img
-                src="/assets/aistudio/image_ee4b3a67.png"
+                src="./assets/aistudio/image_ee4b3a67.png"
                 alt="Fachada auténtica del Restaurante Asador La Rinconada en Blanes"
                 className="w-full h-80 sm:h-96 object-cover object-center"
                 referrerPolicy="no-referrer"
