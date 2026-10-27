@@ -1,0 +1,8 @@
+{
+  "name": "Restaurante-Asador-La-Rinconada-Blanes",
+  "description": "Auténtico Asador de Carne en Blanes, Costa Brava. Carnes a la brasa al carbón, cortes tradicionales y parrilladas. Reserva de mesa online directa.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
